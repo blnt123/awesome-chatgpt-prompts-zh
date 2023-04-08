@@ -703,6 +703,6 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 
 [![Star History Chart](https://api.star-history.com/svg?repos=PlexPt/awesome-chatgpt-prompts-zh&type=Date)](https://star-history.com/#PlexPt/awesome-chatgpt-prompts-zh&Date)
 
-## 感谢
+## 感谢eee
 
 [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)  本文部分内容翻译自此
